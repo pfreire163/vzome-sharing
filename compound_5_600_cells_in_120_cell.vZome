@@ -19,7 +19,9 @@
     <DeselectAll/>
     <AdjustSelectionByClass balls="IGNORE" panels="SELECT" struts="IGNORE"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll/>
     <ApplyTool deleteInputs="true" name="scaling.builtin/scale up"/>
     <ApplyTool deleteInputs="true" name="scaling.builtin/scale up"/>
@@ -37,7 +39,7 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="432.1961669921875" far="864.3923339843778" near="1.0804904335810297" parallel="false" stereoAngle="0.0" width="194.48827514648454">
+    <ViewModel distance="295.562255859375" far="591.1245117187522" near="0.7389056506589889" parallel="true" stereoAngle="0.0" width="133.0030151367189">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
       <UpDirection x="0.42532540329100205" y="0.6881909795275332" z="-0.587785230345473"/>
       <LookDirection x="-0.8506508107373089" y="0.5257311082596874" z="0.0"/>
