@@ -11,13 +11,13 @@
     <Delete/>
   </EditHistory>
   <notes/>
-  <sceneModel ambientLight="41,41,41" background="255,255,255">
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
     <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
     <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="272.8383483886719" far="545.6766967773444" near="0.6820958811357009" parallel="true" stereoAngle="0.0" width="122.77725677490253">
+    <ViewModel distance="301.5329895019531" far="603.0659790039073" near="0.7538324849878631" parallel="true" stereoAngle="0.0" width="135.68984527587915">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
       <UpDirection x="0.0" y="1.0" z="0.0"/>
       <LookDirection x="-0.5257311082596874" y="0.0" z="-0.8506508107373089"/>
