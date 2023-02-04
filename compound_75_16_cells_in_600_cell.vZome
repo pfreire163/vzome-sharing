@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" coreVersion="7.0" field="golden">
-  <EditHistory editNumber="17" lastStickyEdit="-1">
+  <EditHistory editNumber="22" lastStickyEdit="-1">
     <SelectManifestation point="0 0 0 0 0 0"/>
     <Hide>
       <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
@@ -17,8 +17,15 @@
     <DeselectAll/>
     <AdjustSelectionByClass balls="IGNORE" panels="SELECT" struts="IGNORE"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectAll/>
+    <ApplyTool deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll/>
+    <EndBlock/>
     <ApplyTool deleteInputs="true" name="scaling.builtin/scale up"/>
     <DeselectAll/>
   </EditHistory>
@@ -29,7 +36,7 @@
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="198.12130737304688" far="396.2426147460943" near="0.4953032758132115" parallel="false" stereoAngle="0.0" width="89.15458831787116">
+    <ViewModel distance="326.6467590332031" far="653.2935180664075" near="0.8166169097515488" parallel="true" stereoAngle="0.0" width="146.99104156494158">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
       <UpDirection x="-0.1624598555183959" y="0.2628655789868238" z="0.9510565086938125"/>
       <LookDirection x="0.8506508107373089" y="0.5257311082596874" z="0.0"/>
