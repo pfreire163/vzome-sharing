@@ -1,5 +1,5 @@
 ---
-title: Rectified 6 orthoplex
+title: Rectified 6-orthoplex
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://pfreire163.github.io/vzome-sharing/2025/04/26/21-10-23-6-orthoplex_rectified/6-orthoplex_rectified.png
 published: false
